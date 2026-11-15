@@ -1,0 +1,5 @@
+SPDX-License-Identifier: GPL-3.0-only
+
+A fork of sunfish (github.com/thomasahle/sunfish, commit e396948) by Thomas
+Ahle and contributors, GPL-3.0-only. The env driver and the compaction are
+this project' own.
